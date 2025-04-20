@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.obj : error LNK2001: 外部シンボル _SDL_Init は未解決です
+main.obj : error LNK2001: 外部シンボル _SDL_DestroyWindow は未解決です
+main.obj : error LNK2001: 外部シンボル _SDL_GetError は未解決です
+main.obj : error LNK2001: 外部シンボル _SDL_Quit は未解決です
+main.obj : error LNK2001: 外部シンボル _SDL_Delay は未解決です
+main.obj : error LNK2001: 外部シンボル _SDL_CreateWindow は未解決です
+LIBCMT.lib(exe_winmain.obj) : error LNK2001: 外部シンボル _WinMain@16 は未解決です
+D:\UnityProjects\Transparent\Release\Transparent.exe : fatal error LNK1120: 7 件の未解決の外部参照

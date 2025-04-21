@@ -1,6 +1,7 @@
-﻿  コード生成しています。
-  0 of 219 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+﻿  main.cpp
+  コード生成しています。
+  2 of 9 functions (22.2%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   コード生成が終了しました。
-  Transparent.vcxproj -> D:\UnityProjects\Transparent\x64\Release\Transparent.exe
+  Transparent.vcxproj -> C:\Users\act0g\source\repos\Transparent\x64\Release\Transparent.exe

@@ -1,4 +1,6 @@
 #pragma once
+#include "Vector3.h"
+#include <vector>
 class Actor
 {
 public:
@@ -16,6 +18,7 @@ public:
 	void RemoveComponent(class Component* component);
 private:
 	State _state;
-
+	class Game* _game;
+	std::vector<class Component*> _components;
 };
 

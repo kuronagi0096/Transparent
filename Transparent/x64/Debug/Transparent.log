@@ -1,2 +1,3 @@
-﻿  Vector2.cpp
+﻿  Game.cpp
+C:\Users\act0g\source\repos\Transparent\Transparent\Game.cpp(35,1): warning C4715: 'Game::Initialize': 値を返さないコントロール パスがあります。
   Transparent.vcxproj -> C:\Users\act0g\source\repos\Transparent\x64\Debug\Transparent.exe

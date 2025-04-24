@@ -73,8 +73,8 @@ void Game::UpdateGame() {
 void Game::GenerateOutput() {
 	SDL_SetRenderDrawColor(
 		_renderer,
-		0,
-		0,
+		30,
+		30,
 		255,
 		255
 	);

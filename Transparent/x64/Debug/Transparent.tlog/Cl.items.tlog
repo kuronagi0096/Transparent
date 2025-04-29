@@ -1,6 +1,9 @@
 C:\Users\act0g\source\repos\Transparent\Transparent\Actor.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\Actor.obj
+C:\Users\act0g\source\repos\Transparent\Transparent\ColorReactiveComponent.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\ColorReactiveComponent.obj
+C:\Users\act0g\source\repos\Transparent\Transparent\ColorWorldManager.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\ColorWorldManager.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\Component.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\Component.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\Game.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\Game.obj
+C:\Users\act0g\source\repos\Transparent\Transparent\IColorObserver.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\IColorObserver.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\main.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\main.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\RenderComponent.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\RenderComponent.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\Vector2.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\Vector2.obj

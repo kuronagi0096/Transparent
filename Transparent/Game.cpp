@@ -69,6 +69,7 @@ void Game::ProcessInput() {
 }
 void Game::UpdateGame() {
 	// Update game logic here
+	float deltaTime = (SDL_GetTicks() - _ticksCount) / 1000.0f;
 }
 void Game::GenerateOutput() {
 	SDL_SetRenderDrawColor(

@@ -144,8 +144,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Actor.cpp" />
+    <ClCompile Include="ColorReactiveComponent.cpp" />
+    <ClCompile Include="ColorWorldManager.cpp" />
     <ClCompile Include="Component.cpp" />
     <ClCompile Include="Game.cpp" />
+    <ClCompile Include="IColorObserver.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="RenderComponent.cpp" />
     <ClCompile Include="Vector2.cpp" />
@@ -153,11 +156,15 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Actor.h" />
+    <ClInclude Include="ColorReactiveComponent.h" />
+    <ClInclude Include="ColorWorldManager.h" />
     <ClInclude Include="Component.h" />
     <ClInclude Include="Game.h" />
+    <ClInclude Include="IColorObserver.h" />
     <ClInclude Include="RenderComponent.h" />
     <ClInclude Include="Vector2.h" />
     <ClInclude Include="Vector3.h" />
+    <ClInclude Include="WorldColor.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

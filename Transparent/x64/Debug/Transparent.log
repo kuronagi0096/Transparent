@@ -1,5 +1,2 @@
-﻿  ColorWorldManager.cpp
-C:\Users\act0g\source\repos\Transparent\Transparent\IColorObserver.h(2,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
-  (ソース ファイル 'ColorWorldManager.cpp' をコンパイルしています)
-  
+﻿  Vector2.cpp
   Transparent.vcxproj -> C:\Users\act0g\source\repos\Transparent\x64\Debug\Transparent.exe

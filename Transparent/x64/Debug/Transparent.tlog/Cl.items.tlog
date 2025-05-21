@@ -4,7 +4,15 @@ C:\Users\act0g\source\repos\Transparent\Transparent\ColorWorldManager.cpp;C:\Use
 C:\Users\act0g\source\repos\Transparent\Transparent\Component.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\Component.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\Game.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\Game.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\IColorObserver.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\IColorObserver.obj
+C:\Users\act0g\source\repos\Transparent\Transparent\IInputSource.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\IInputSource.obj
+C:\Users\act0g\source\repos\Transparent\Transparent\InputAction.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\InputAction.obj
+C:\Users\act0g\source\repos\Transparent\Transparent\InputManager.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\InputManager.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\main.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\main.obj
+C:\Users\act0g\source\repos\Transparent\Transparent\pch.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\pch.obj
+C:\Users\act0g\source\repos\Transparent\Transparent\PhysicalInteractable.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\PhysicalInteractable.obj
+C:\Users\act0g\source\repos\Transparent\Transparent\Player.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\Player.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\RenderComponent.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\RenderComponent.obj
+C:\Users\act0g\source\repos\Transparent\Transparent\Signal.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\Signal.obj
+C:\Users\act0g\source\repos\Transparent\Transparent\UIInteractable.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\UIInteractable.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\Vector2.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\Vector2.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\Vector3.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\Vector3.obj

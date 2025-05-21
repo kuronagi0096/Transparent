@@ -3,7 +3,7 @@
 #include "IColorObserver.h"
 #include <vector>
 
-class ColorWorldManager
+class WorldColorManager
 {
 public:
 	void SetColor(WorldColor color);

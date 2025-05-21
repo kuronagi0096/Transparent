@@ -1,0 +1,10 @@
+#pragma once
+#include <iostream>
+#include <vector>
+#include <string>
+#include <algorithm>
+#include <memory>
+#include <functional>
+#include <SDL.h>
+#include "Component.h"
+#include "Actor.h"

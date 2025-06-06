@@ -2,11 +2,12 @@ C:\Users\act0g\source\repos\Transparent\Transparent\Actor.cpp;C:\Users\act0g\sou
 C:\Users\act0g\source\repos\Transparent\Transparent\ColorReactiveComponent.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\ColorReactiveComponent.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\ColorWorldManager.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\ColorWorldManager.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\Component.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\Component.obj
+C:\Users\act0g\source\repos\Transparent\Transparent\ControllerButton.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\ControllerButton.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\Game.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\Game.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\IColorObserver.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\IColorObserver.obj
-C:\Users\act0g\source\repos\Transparent\Transparent\IInputSource.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\IInputSource.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\InputAction.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\InputAction.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\InputManager.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\InputManager.obj
+C:\Users\act0g\source\repos\Transparent\Transparent\KeyboardButton.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\KeyboardButton.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\main.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\main.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\pch.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\pch.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\PhysicalInteractable.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Debug\PhysicalInteractable.obj

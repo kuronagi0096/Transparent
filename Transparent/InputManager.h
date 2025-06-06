@@ -8,10 +8,12 @@ namespace Input {
 	class InputManager
 	{
 	public:
+		InputManager();
+
 		InputAction& GetAction(InputActionType actionType);
 		
-		void BindKeyboard(InputAction& action, SDL_Scancode key);
-		void BindController(InputAction& action, SDL_GameController* controller, SDL_GameControllerButton button);
+		void BindKeyboard(InputActionType action, SDL_Scancode key);
+		void BindController(InputActionType action, SDL_GameController* controller, SDL_GameControllerButton button);
 		void Update();
 		void SaveBindings(const std::string& path);
 		void LoadBindings(const std::string& path);

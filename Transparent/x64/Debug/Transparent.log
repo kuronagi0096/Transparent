@@ -1,2 +1,5 @@
-﻿  Vector2.cpp
+﻿  InputManager.cpp
+  KeyboardButton.cpp
+  Vector3.cpp
+  コードを生成中...
   Transparent.vcxproj -> C:\Users\act0g\source\repos\Transparent\x64\Debug\Transparent.exe

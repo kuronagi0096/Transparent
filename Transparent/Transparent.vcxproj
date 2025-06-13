@@ -210,6 +210,7 @@
     <ClInclude Include="SceneManager.h" />
     <ClInclude Include="SceneType.h" />
     <ClInclude Include="Signal.h" />
+    <ClInclude Include="Singleton.h" />
     <ClInclude Include="TitleScene.h" />
     <ClInclude Include="UIInteractable.h" />
     <ClInclude Include="Vector2.h" />

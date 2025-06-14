@@ -1,7 +1,7 @@
-﻿  main.cpp
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(520,5): warning MSB8004: Output ディレクトリの末尾がスラッシュではありません。Output ディレクトリが適切に評価されるようにするために、このビルド インスタンスによってスラッシュが追加されます。
   コード生成しています。
-  2 of 9 functions (22.2%) were compiled, the rest were copied from previous compilation.
+  0 of 525 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   コード生成が終了しました。
-  Transparent.vcxproj -> C:\Users\act0g\source\repos\Transparent\x64\Release\Transparent.exe
+  Transparent.vcxproj -> C:\Users\act0g\source\repos\Transparent\SDL\build\Release\Transparent.exe

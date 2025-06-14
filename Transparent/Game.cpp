@@ -1,6 +1,7 @@
 #include "pch.h"
 #include "Game.h"
 #include "SDL.h"
+#include "SceneManager.h"
 
 Game::Game() {
 	_isRunning = true;
@@ -33,6 +34,9 @@ bool Game::Initialize() {
 		-1,
 		SDL_RENDERER_ACCELERATED | SDL_RENDERER_PRESENTVSYNC
 	);
+
+	SceneManager::Instance().ChangeScene(SceneType::Title);
+
 }
 void Game::Shutdown() {
 	SDL_DestroyRenderer(_renderer);

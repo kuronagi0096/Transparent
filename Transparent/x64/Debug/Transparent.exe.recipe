@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\act0g\source\repos\Transparent\SDL\build\Debug\Transparent.exe</FullPath>
+      <FullPath>C:\Users\act0g\source\repos\Transparent\SDL\build\Release\Transparent.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

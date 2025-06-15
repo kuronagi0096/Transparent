@@ -16,3 +16,18 @@ void Actor::UpdateComponents(float deltaTime)
 		component->UpdateComponent(deltaTime);
 	}
 }
+void Actor::AddComponent(Component* component)
+{
+	if (component)
+	{
+		_components.push_back(component);
+	}
+}
+void Actor::RemoveComponent(Component* component)
+{
+	auto it = std::remove(_components.begin(), _components.end(), component);
+	if (it != _components.end())
+	{
+		_components.erase(it, _components.end());
+	}
+}

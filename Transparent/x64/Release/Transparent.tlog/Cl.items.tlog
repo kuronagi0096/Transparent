@@ -1,4 +1,5 @@
 C:\Users\act0g\source\repos\Transparent\Transparent\Actor.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Release\Actor.obj
+C:\Users\act0g\source\repos\Transparent\Transparent\AssetManager.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Release\AssetManager.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\ColorReactiveComponent.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Release\ColorReactiveComponent.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\ColorWorldManager.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Release\ColorWorldManager.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\Component.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Release\Component.obj
@@ -13,11 +14,13 @@ C:\Users\act0g\source\repos\Transparent\Transparent\pch.cpp;C:\Users\act0g\sourc
 C:\Users\act0g\source\repos\Transparent\Transparent\PhysicalInteractable.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Release\PhysicalInteractable.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\Player.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Release\Player.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\RenderComponent.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Release\RenderComponent.obj
+C:\Users\act0g\source\repos\Transparent\Transparent\RendererComponent.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Release\RendererComponent.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\SceneBase.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Release\SceneBase.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\SceneManager.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Release\SceneManager.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\SceneType.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Release\SceneType.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\Signal.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Release\Signal.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\TitleScene.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Release\TitleScene.obj
+C:\Users\act0g\source\repos\Transparent\Transparent\TransformComponent.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Release\TransformComponent.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\UIInteractable.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Release\UIInteractable.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\Vector2.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Release\Vector2.obj
 C:\Users\act0g\source\repos\Transparent\Transparent\Vector3.cpp;C:\Users\act0g\source\repos\Transparent\Transparent\x64\Release\Vector3.obj

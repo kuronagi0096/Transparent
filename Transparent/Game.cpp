@@ -35,7 +35,7 @@ bool Game::Initialize() {
 		SDL_RENDERER_ACCELERATED | SDL_RENDERER_PRESENTVSYNC
 	);
 
-	SceneManager::Instance().ChangeScene(SceneType::Title);
+	SceneManager::GetInstance().ChangeScene(SceneType::Title);
 
 }
 void Game::Shutdown() {

@@ -14,16 +14,16 @@ public:
 	/// <summary>
 	/// デストラクタ
 	/// </summary>
-	virtual ~Component();
+	virtual ~Component() = default;
 
 	/// <summary>
 	/// コンポーネントをデルタタイムで更新する
 	/// </summary>
 	/// <param name="deltaTime">更新速度</param>
-	virtual void UpdateComponent(float deltaTime);
+	virtual void UpdateComponent(float deltaTime) = 0;
 
 	void SetEnabled(bool enabled);/// コンポーネントを有効にするかどうか設定する
-	void GetEnabled() const;/// コンポーネントが有効かどうか取得する
+	bool GetEnabled() { return _isEnabled; }/// コンポーネントが有効かどうか取得する
 
 	/// <summary>
 	/// 更新順序を取得	

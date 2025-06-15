@@ -9,7 +9,7 @@ public:
     Singleton(Singleton&&) = delete;
     Singleton& operator=(Singleton&&) = delete;
 
-    static T& Instance()
+    static T& GetInstance()
     {
         static T instance;
         return instance;

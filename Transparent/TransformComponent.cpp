@@ -1,4 +1,3 @@
-#include "pch.h"
 #include "TransformComponent.h"
 #include "Actor.h"
 
@@ -9,13 +8,8 @@ TransformComponent::TransformComponent(Actor* owner, int updateOrder)
 	_scale = Vector3(1.0f, 1.0f, 1.0f); // Initialize scale to identity
 	_rotation = 0.0f; // Initialize rotation to zero
 }
-
-void TransformComponent::SetPosition(Vector3 position)
+void TransformComponent::UpdateComponent(float deltaTime)
 {
-	_position = position;
-}
-
-Vector3 TransformComponent::GetPosition() const
-{
-	return _position;
+	// TransformComponent does not need to update anything by default
+	// This can be overridden in derived classes if needed
 }

@@ -1,5 +1,3 @@
-#include "pch.h"
-#include <SDL_image.h>
 #include "AssetManager.h"
 
 
